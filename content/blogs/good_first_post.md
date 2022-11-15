@@ -1,52 +1,9 @@
 +++
-title="This is a good first post"
+title="Harshil's Blog"
 date=2019-08-23
 draft=false
 [taxonomies]
 tags=["hello", "blog", "first"]
 +++
 
-So i went there and did all that but as you know:
-* This point was important 
-* This as well...
-* And not to mention this one
-
-
-So i did those other things but:
-1. The first thing
-2. And the second thing
-3. But the third was the `best`
-
-And then the guy said:
-> Man, i'm not gonna be the part of the system
-
-And showed me this:
-
-<img src="https://dummyimage.com/640x4:3/">
-
-
-I said factorial this...
-
-```rust
-fn factorial(n: u64) -> u64 {
-    match n {
-        0 => 1,
-        _ => n * factorial(n-1)
-    }
-}
-```
-
-Then i shouted
-
-# Hello
-
-... and the echo answered:
-
-## Hello
-
-### Hello 
-
-#### Hello 
-[zola!!!][1]
-
-[1]: https://www.getzola.org/
+Hey visitor ! I am currently building up my portfolio. Please come back after a month, I may by that time be able to publish few blog post based on my experience and understanding of the things. So, Well you got tricked, This is my demo blog post hehe :)

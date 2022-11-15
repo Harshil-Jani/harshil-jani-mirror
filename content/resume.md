@@ -6,7 +6,7 @@ title="Harshil Jani"
 line. It is intended to be used for contact details -->
 - <harshiljani2002@gmail.com>
 - (+91) 7984677391
-- [mysitelink.com](http://richardhendricks.example.com)
+- [Linkedin Profile](https://www.linkedin.com/in/harshil1/)
 - Bhavnagar, Gujarat
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
