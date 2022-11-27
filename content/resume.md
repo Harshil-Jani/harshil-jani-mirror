@@ -21,7 +21,7 @@ industrial insights by applying my learnings.
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>Software Development Intern, Samagra</span> <div style="text-align: right">Sept 2022 - Currently Working</div>
+### <span>Software Development Intern, Samagra</span> <div style="text-align: right">Sept 2022 - Nov 2022</div>
 
 Samagra leads in consulting and producing the impactfull schemes for the State Government and operates majorly in 4 Indian States : Haryana, Himachal Pradesh, Oddisa and Uttar Pradesh. To meet their end goals of schemes they propose to the CMO (Chief Minister Office) there is a tech team working to build scalable digital products required by governments. 
 
