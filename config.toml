@@ -53,7 +53,7 @@ extra_syntaxes = []
 # will be accessible in all templates
 [extra]
 
-home_subtitle = "Engineering Student, Linux Learner, Environment emphasizer, Google Summer of Code Student 2022 @ CERN-HSF"
+home_subtitle = "Engineering Student, Linux Learner, Working to transform governance, Environment emphasizer, Google Summer of Code Student 2022 @ CERN-HSF"
 
 harshil_menu = [
     { link = "/blogs", name = "Blogs" },
