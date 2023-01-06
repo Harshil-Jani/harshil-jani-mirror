@@ -44,7 +44,7 @@ Go to sleep child. If you don't have time to contribute to open source, You shou
 
 ### ` Will you help me in my proposal ? `
 
-Something, Which can potentially be the red mark in our relation. No matter who you are a friend, girlfriend, relative, cousin, siblinggrandmother, grandfather, my cat, my dog but only advice is that I can help you in making the proposal only under strict 2 conditions.
+Something, Which can potentially be the red mark in our relation. No matter who you are a friend, girlfriend, relative, cousin, sibling, grandmother, grandfather, my cat, my dog but only advice is that I can help you in making the proposal only under strict 2 conditions.
 
 1. I am your GSoC Mentor.
 2. I have past experience working with that project.
