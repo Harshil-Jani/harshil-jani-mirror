@@ -57,6 +57,7 @@ home_subtitle = "Engineering Student, Linux Learner, Working to transform govern
 
 harshil_menu = [
     { link = "/blogs", name = "Blogs" },
+    { link = "/tags/electronics/", name="SPICE Tutorials"},
     { link = "/about", name = "About" },
     { link = "/resume", name = "Resume" },
     { link = "/gsoc", name="Google Summer Of Code'22"}
